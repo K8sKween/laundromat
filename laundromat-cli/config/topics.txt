@@ -1,0 +1,2 @@
+basket.clothes.v1
+machine.status.v1
